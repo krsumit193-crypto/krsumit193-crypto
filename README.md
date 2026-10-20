@@ -19,3 +19,13 @@
 - Build meaningful projects
 - Maintain consistent coding practice
 - Prepare for software development internships
+
+🚀 Featured Projects
+
+DSA-Cpp — Practicing Data Structures and Algorithms with C++.
+
+More projects coming soon!
+
+📫 Connect With Me
+
+GitHub: @krsumit193-crypto
